@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Inf-04-maui-part2/zad14.3.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="zad15.2/zad15.2.csproj" Id="15e4e504-5fff-4c85-b935-59b916c28fe2">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>
